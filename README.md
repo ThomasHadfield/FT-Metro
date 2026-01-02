@@ -1,2 +1,6 @@
-# FT-Metro
-FT Metro Font
+# FT Metro Font
+
+
+## ChangeLog
+Jan 2, 2026
+- Initial Release v0.2
