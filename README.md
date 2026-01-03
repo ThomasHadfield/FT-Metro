@@ -5,3 +5,6 @@
 ## ChangeLog
 Jan 2, 2026
 - Initial Beta Release v0.2
+
+## License
+FT Metro is licensed under the SIL Open Font License v1.1, see LICENSE.txt for details.
