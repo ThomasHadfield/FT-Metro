@@ -3,4 +3,4 @@
 
 ## ChangeLog
 Jan 2, 2026
-- Initial Release v0.2
+- Initial Beta Release v0.2
